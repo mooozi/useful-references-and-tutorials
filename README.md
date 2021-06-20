@@ -3,7 +3,7 @@
 웹 개발자라면 꼭 봐야 할 레퍼런스와 문서들을 정리하고 있습니다. 이 문서는 [https://mooozi.github.io/references.html](https://mooozi.github.io/references.html)에서도 볼 수 있습니다. 오류가 있거나 추가할 내용이 있으면 [이슈를 등록](https://github.com/mooozi/useful-references-and-tutorials/issues)하거나 [Pull Request](https://github.com/mooozi/useful-references-and-tutorials/pulls) 해주시면 고맙겠습니다.
 
 * [프로그래밍 언어 레퍼런스](#프로그래밍-언어-레퍼런스)
-* [웹 개발: 프론트엔드와 백엔드](#웹-개발:-프론트엔드와-백엔드)
+* [웹 개발: 프론트엔드와 백엔드](#웹-개발-프론트엔드와-백엔드)
 * [웹 프론트엔드 개발](#웹-프론트엔드-개발)
 * [웹 백엔드 개발](#웹-백엔드-개발)
 * [웹 기획과 디자인](#웹-기획과-디자인)
