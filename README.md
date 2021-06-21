@@ -251,6 +251,7 @@
 
 * `[ko]` [Baekjoon Online Judge](https://www.acmicpc.net/) &ndash; 프로그래밍 문제를 풀고 온라인으로 채점 받을 수 있는 사이트
 * `[ko]` [프로그래머스](https://programmers.co.kr/) &ndash; 프로그래밍·SQL 코딩 테스트와 개발자 채용 플랫폼
+* `[ko]` [알고리즘과 시간 복잡도](https://feel5ny.github.io/2017/12/09/CS_01/)
 * `[ko]` [라이브러리, 프레임워크, 아키텍처, 플랫폼이란?](https://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
 * `[ko]` [문서화에 대해 아무도 말해주지 않는 것들](https://lazygyu.net/blog/secrets_of_documentation)
 * `[ko]` [프로그래머와 영어](https://semoa.tistory.com/372)
@@ -261,6 +262,7 @@
 * `[ko]` [자주 쓰는 Git 명령어 정리](https://thecodinglog.github.io/git/2019/06/13/git-frequently.html)
 * `[ko]` [GitHub을 이용한 프로젝트 관리](https://treasurebear.tistory.com/69)
 * `[ko]` [GitHub로 프로젝트 관리하기 Part1 - 이슈 발급부터 코드 리뷰까지](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part1-%EC%9D%B4%EC%8A%88-%EB%B0%9C%EA%B8%89-%EB%B6%80%ED%84%B0-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EA%B9%8C/)
+* `[ko]` [GitHub 오픈 소스 프로젝트에 참여하기](https://cselabnotes.com/kr/2021/03/26/%ea%b9%83%ed%97%88%eb%b8%8c-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8%ec%97%90-%ec%b0%b8%ec%97%ac%ed%95%98%ea%b8%b0/)
 * `[en]` [Carbon](https://carbon.now.sh/) &ndash; Create and share beautiful images of your source code
 * `[en]` [Color Scripter](https://colorscripter.com/) &ndash; Simple & Flexible Syntax HighLighter
 * `[ko]` [기술 블로그 구독 서비스](http://daily-devblog.com/) &ndash; 매일 아침 10시 개발자 블로그의 글들을 메일로 보내주는 서비스
