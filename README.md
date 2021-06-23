@@ -215,7 +215,11 @@
 * `[en]` [Java EE API Documentation and Tag Reference](https://javaee.github.io/glassfish/documentation)
 * `[ko]` [점프 투 자바](https://wikidocs.net/book/31)
 * `[ko]` [Java 언어 Part1](http://ehpub.co.kr/category/%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ec%96%b8%ec%96%b4/java-%ec%9e%85%eb%ac%b8/)
+* `[ko]` [Java](http://www.devkuma.com/books/1)
 * `[en]` [Programming Tutorials and Source Code Examples](http://www.java2s.com/)
+* `[ko]` [워크스페이스/프로젝트/패키지/클래스의 개념 및 명명 규칙](https://codevang.tistory.com/76)
+* `[ko]` [Scanner 클래스와 입력](https://st-lab.tistory.com/92)
+* `[ko]` [Java 입력 뜯어보기(Scanner, InputStream, BufferedReader)](https://st-lab.tistory.com/41)
 * `[ko]` [Java Enum 활용기](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 
 <!-- #jsp-programming -->
