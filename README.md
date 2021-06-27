@@ -45,11 +45,11 @@
 * `[ko]` [웹 프로그래밍 튜토리얼](https://poiemaweb.com/)
 * `[ko]` [생활코딩: WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
 * `[ko]` [웹의 동작 방식](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+* `[ko]` [HTTP 상태 코드에 대해 알아보자](https://velog.io/@woo0_hooo/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-HTTP-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+* `[ko]` [GET과 POST의 차이](https://blog.outsider.ne.kr/312)
 * `[ko]` [프론트엔드/백엔드 프로그래밍 환경 이해하기](https://www.timetodev.co.kr/blog/156)
 * `[ko]` [웹 개발자는 어떤 일을 하나요? (풀스택, 프론트엔드, 백엔드, 퍼블리셔)](https://7942yongdae.tistory.com/56)
 * `[ko]` [개발자 직군 파헤치기: 프론트(Front), 백(Back), 풀스택(Full-Stack) 개발자](https://medium.com/code-states/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%81%EA%B5%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-1-%ED%94%84%EB%A1%A0%ED%8A%B8-front-%EB%B0%B1-back-%ED%92%80%EC%8A%A4%ED%83%9D-full-stack-%EA%B0%9C%EB%B0%9C%EC%9E%90-f6c2f53e5b3b)
-* `[ko]` [GET과 POST의 차이](https://blog.outsider.ne.kr/312)
-* `[ko]` [HTTP 상태 코드에 대해 알아보자](https://velog.io/@woo0_hooo/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-HTTP-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * `[ko]` [Ajax 크로스 도메인 요청(CORS)](https://brunch.co.kr/@adrenalinee31/1)
 
 <!-- #web-frontend-development -->
@@ -147,6 +147,7 @@
 * `[ko]` [MDN Web Docs: 개발자를 위한 웹 기술](https://developer.mozilla.org/ko/docs/Web) &ndash; HTML, CSS, JavaScript 레퍼런스
 * `[ko]` [MDN Web Docs: 웹 기술 학습서](https://developer.mozilla.org/ko/docs/Web/Tutorials) &ndash; HTML, CSS, JavaScript 학습서
 * `[en]` [W3Schools](https://www.w3schools.com/) &ndash; HTML, CSS, JavaScript, jQuery 레퍼런스
+* `[ko]` [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 * `[ko]` [TCP School: JavaScript 개요](http://tcpschool.com/javascript/intro)
 * `[ko]` [자바스크립트의 탄생](https://www.neulsang.life/js-start/)
 * `[ko]` [JavaScript 표준과 TypeScript](https://medium.com/@hyunalee419/javascript-%ED%91%9C%EC%A4%80-58799e7a922f)
@@ -220,6 +221,7 @@
 * `[ko]` [워크스페이스/프로젝트/패키지/클래스의 개념 및 명명 규칙](https://codevang.tistory.com/76)
 * `[ko]` [Scanner 클래스와 입력](https://st-lab.tistory.com/92)
 * `[ko]` [Java 입력 뜯어보기(Scanner, InputStream, BufferedReader)](https://st-lab.tistory.com/41)
+* `[ko]` [자바 깊이 알기: Swap 함수와 메모리](https://ecsimsw.tistory.com/entry/%EC%9E%90%EB%B0%94-%EA%B9%8A%EC%9D%B4-%EC%95%8C%EA%B8%B0-Swap-%ED%95%A8%EC%88%98%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC)
 * `[ko]` [Java Enum 활용기](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 
 <!-- #jsp-programming -->
