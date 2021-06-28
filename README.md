@@ -115,7 +115,10 @@
 * `[ko]` [한눈에 보는 HTML 요소(Elements & Attributes) 총정리](https://heropy.blog/2019/05/26/html-elements/)
 * `[ko]` [HTML 마크업](https://seulbinim.github.io/WSA/html-basic.html)
 * `[ko]` [`data` 속성 사용하기](https://developer.mozilla.org/ko/docs/Learn/HTML/Howto/Use_data_attributes)
+* `[en]` [CSS-Tricks](https://css-tricks.com/) &ndash; HTML, CSS와 관련된 트릭이나 문서, Snippet 제공
 * `[ko]` [CSS 공작소](https://superkts.com/css/) &ndash; 예제 중심으로 CSS를 다루는 사이트
+* `[en]` [Tutorialzine](https://tutorialzine.com/tag/html) &ndash; HTML, CSS, JavaScript 관련 튜토리얼과 문서
+* `[en]` [Codrops](https://tympanus.net/codrops/) &ndash; HTML, CSS, JavaScript 관련 리소스와 문서, 튜토리얼
 * `[ko]` [MDN Docs: CSS 캐스캐이딩과 상속](https://developer.mozilla.org/ko/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
 * `[ko]` [MDN Docs: CSS 박스 모델](https://developer.mozilla.org/ko/docs/Learn/CSS/Building_blocks/The_box_model)
 * `[ko]` [MDN Docs: 컨테이닝 블록의 모든 것](https://developer.mozilla.org/ko/docs/Web/CSS/Containing_block)
@@ -128,6 +131,7 @@
 * `[en]` [The Anti-hero of CSS Layout - "`display:table`"](https://colintoh.com/blog/display-table-anti-hero)
 * `[ko]` [반응형 웹(Responsive Web)](https://www.nextree.co.kr/p8622/)
 * `[ko]` [CSS, SVG로 만드는 Circle Progress Bar](https://wit.nts-corp.com/2021/04/23/6338)
+* `[en]` [CSS Layout](https://csslayout.io/) &ndash; CSS를 이용해 만든 레이아웃과 패턴들을 공유
 * `[ko]` [Naver D2: flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176)
 * `[ko]` [`float` 대신 `grid`와 `flex`만 써도 되나요?](https://www.inflearn.com/questions/205288) &ndash; 세상을 쉽게 살려고 하면 어렵게 살게 된다.
 * `[en]` [CSS Gradient - Generator, Maker, and Background](https://cssgradient.io/)
