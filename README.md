@@ -190,6 +190,7 @@
 * `[ko]` [파이썬 사용법](https://www.delftstack.com/ko/howto/python/)
 * `[ko]` [왕초보를 위한 Python: 쉽게 풀어 쓴 기초 문법과 실습](https://wikidocs.net/book/2)
 * `[ko]` [미운코딩새끼: 4시간 만에 끝내는 파이썬 기초](https://wikidocs.net/book/1421)
+* `[ko]` [데이터 사이언스 스쿨: 파이썬 편](https://datascienceschool.net/01%20python/00.00%20%EC%86%8C%EA%B0%9C%EC%9D%98%20%EA%B8%80.html)
 * `[ko]` [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
 * `[ko]` [파이썬 정규 표현식(re) 사용법](https://greeksharifa.github.io/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D(re)/2018/07/20/regex-usage-01-basic/)
 
@@ -222,10 +223,12 @@
 * `[ko]` [Java 언어 Part1](http://ehpub.co.kr/category/%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ec%96%b8%ec%96%b4/java-%ec%9e%85%eb%ac%b8/)
 * `[ko]` [Java](http://www.devkuma.com/books/1)
 * `[en]` [Programming Tutorials and Source Code Examples](http://www.java2s.com/)
+* `[ko]` [Codechacha](https://codechacha.com/ko/category/java/) &ndash; Java 프로그래밍 팁과 예제, 개념 등이 정리된 문서들을 제공
 * `[en]` [CompileJava](https://www.compilejava.net/) &ndash; 온라인 Java 컴파일러
 * `[ko]` [워크스페이스/프로젝트/패키지/클래스의 개념 및 명명 규칙](https://codevang.tistory.com/76)
 * `[ko]` [Scanner 클래스와 입력](https://st-lab.tistory.com/92)
 * `[ko]` [Java 입력 뜯어보기(Scanner, InputStream, BufferedReader)](https://st-lab.tistory.com/41)
+* `[ko]` [자바 자료형에 대한 고찰: 자바 Integer의 캐시 기능](https://pjh3749.tistory.com/254)
 * `[ko]` [자바 깊이 알기: Swap 함수와 메모리](https://ecsimsw.tistory.com/entry/%EC%9E%90%EB%B0%94-%EA%B9%8A%EC%9D%B4-%EC%95%8C%EA%B8%B0-Swap-%ED%95%A8%EC%88%98%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC)
 * `[ko]` [Java Enum 활용기](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 
