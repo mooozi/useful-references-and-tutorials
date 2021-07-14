@@ -230,6 +230,7 @@
 * `[ko]` [Java 입력 뜯어보기(Scanner, InputStream, BufferedReader)](https://st-lab.tistory.com/41)
 * `[ko]` [자바 자료형에 대한 고찰: 자바 Integer의 캐시 기능](https://pjh3749.tistory.com/254)
 * `[ko]` [자바 깊이 알기: Swap 함수와 메모리](https://ecsimsw.tistory.com/entry/%EC%9E%90%EB%B0%94-%EA%B9%8A%EC%9D%B4-%EC%95%8C%EA%B8%B0-Swap-%ED%95%A8%EC%88%98%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC)
+* `[ko]` [Java: enum의 뿌리를 찾아서](https://www.nextree.co.kr/p11686/)
 * `[ko]` [Java Enum 활용기](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 
 <!-- #jsp-programming -->
