@@ -87,9 +87,11 @@
 * `[ko]` [웹 사이트는 어떻게 만들어질까?](https://acstory.tistory.com/127)
 * `[ko]` [이유 있는 웹 기획 실무 WHY](https://brunch.co.kr/@nonem/1)
 * `[ko]` [UX(User Experience)란? UX 디자인 관련 다이어그램 Best 14](http://bahns.net/2642331)
+* `[ko]` [웹 페이지를 디자인할 때, 자주 하는 실수](https://brunch.co.kr/@blackindigo-red/29)
 * `[ko]` [웹사이트 디자인 과정의 이해](http://plandas.kr/ui-ux-design/uxui-6/)
 * `[ko]` [반응형 웹 디자인의 9가지 기본 원칙](https://knulab.com/archives/1153)
 * `[ko]` [웹 디자이너와 UI/UX 디자이너 이야기](https://ditoday.com/%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%99%80-ui-ux-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
+* `[ko]` [UI/UX 초심자를 위한 웹 그리드 시스템 훑어보기](https://brunch.co.kr/@macga/3)
 * `[ko]` [2021년에 놓치지 말아야 할 9가지 인기 웹 디자인 트렌드](https://ko.wix.com/blog/post/web-design-trends-viewer-de7f4)
 * `[ko]` [굿디자인웹(GDWEB)](http://www.gdweb.co.kr/) &ndash; 대한민국 웹사이트들과 모바일 UX를 대상으로 디자인 우수작을 선정
 * `[ko]` [Pinterest](https://www.pinterest.co.kr/) &ndash; 이용자가 스크랩하고자 하는 이미지를 포스팅하고 다른 이용자와 공유하는 소셜 네트워크 서비스
@@ -239,6 +241,7 @@
 * `[ko]` [웹과 JSP 프로그래밍 이해하기](https://velog.io/@ruinak_4127/%EC%9B%B9%EA%B3%BC-JSP-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * `[ko]` [JSP(Java Server Pages)란](https://gmlwjd9405.github.io/2018/11/03/jsp.html)
 * `[ko]` [JSP & Servlet 배경 지식 정리](https://myblog.opendocs.co.kr/doc_java_servlet)
+* `[ko]` [어떤 JDK를 써야 할까?](https://www.lesstif.com/java/jdk-whichjdk-com-125305293.html)
 
 <!-- #database -->
 ## 데이터베이스
@@ -256,6 +259,7 @@
 * `[ko]` [정규 표현식(Regular Expression)을 소개합니다.](https://www.nextree.co.kr/p4327/)
 * `[ko]` [정규 표현식(Regular Expression) 이해하기](https://yurimkoo.github.io/analytics/2019/10/26/regular_expression.html)
 * `[ko]` [정규 표현식의 개념과 기초 문법](https://soooprmx.com/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95/)
+* `[ko]` [정규 표현식, 이렇게 시작하자!](https://heropy.blog/2018/10/28/regexp/)
 * `[ko]` [핵심만 모아놓은 Cheat Sheet](https://chrisjune-13837.medium.com/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EC%98%88%EC%A0%9C%EB%A5%BC-%ED%86%B5%ED%95%9C-cheatsheet-%EB%B2%88%EC%97%AD-61c3099cdca8)
 * `[ko]` [MDN Web Docs: JavaScript RegExp](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
 * `[ko]` [파이썬 정규 표현식(re) 사용법](https://greeksharifa.github.io/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D(re)/2018/07/20/regex-usage-01-basic/)
