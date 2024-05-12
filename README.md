@@ -43,6 +43,7 @@
 * `[ko]` [MDN Web Docs: 웹 기술 학습서](https://developer.mozilla.org/ko/docs/Web/Tutorials) &ndash; HTML, CSS, JavaScript 학습서
 * `[en]` [W3Schools](https://www.w3schools.com/) &ndash; HTML, CSS, JavaScript, jQuery 학습서
 * `[ko]` [웹 프로그래밍 튜토리얼](https://poiemaweb.com/)
+* `[ko]` [codingEverybody](https://codingeverybody.kr/)
 * `[ko]` [생활코딩: WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
 * `[ko]` [웹의 동작 방식](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * `[ko]` [HTTP 상태 코드에 대해 알아보자](https://velog.io/@woo0_hooo/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-HTTP-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
@@ -111,6 +112,7 @@
 * `[ko]` [MDN Web Docs: 웹 기술 학습서](https://developer.mozilla.org/ko/docs/Web/Tutorials) &ndash; HTML, CSS, JavaScript 학습서
 * `[en]` [W3Schools](https://www.w3schools.com/) &ndash; HTML, CSS, JavaScript, jQuery 레퍼런스
 * `[ko]` [웹 프로그래밍 튜토리얼](https://poiemaweb.com/)
+* `[ko]` [codingEverybody](https://codingeverybody.kr/)
 * `[ko]` [TCP School: HTML 개요](http://tcpschool.com/html/intro)
 * `[en]` [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
 * `[ko]` [입문자에게 추천하는 HTML, CSS 첫걸음](https://heropy.blog/2019/04/24/html-css-starter/)
@@ -135,6 +137,8 @@
 * `[ko]` [CSS, SVG로 만드는 Circle Progress Bar](https://wit.nts-corp.com/2021/04/23/6338)
 * `[en]` [CSS Layout](https://csslayout.io/) &ndash; CSS를 이용해 만든 레이아웃과 패턴들을 공유
 * `[ko]` [Naver D2: flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176)
+* `[ko]` [이번에야말로 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)
+* `[ko]` [이번에야말로 CSS Grid를 익혀보자](https://studiomeal.com/archives/533)
 * `[ko]` [`float` 대신 `grid`와 `flex`만 써도 되나요?](https://www.inflearn.com/questions/205288) &ndash; 세상을 쉽게 살려고 하면 어렵게 살게 된다.
 * `[en]` [CSS Gradient - Generator, Maker, and Background](https://cssgradient.io/)
 * `[ko]` [웹 폰트 사용하기](https://wit.nts-corp.com/2017/02/13/4258)
